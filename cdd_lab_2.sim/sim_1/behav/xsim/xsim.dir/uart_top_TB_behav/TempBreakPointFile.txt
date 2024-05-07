@@ -1,0 +1,6 @@
+Breakpoint File Version 1.0
+104 true /home/sims0702/cdd_lab_2/cdd_lab_2.srcs/sources_1/imports/Downloads/uart_top.v
+84 true /home/sims0702/cdd_lab_2/cdd_lab_2.srcs/sources_1/imports/Downloads/uart_top.v
+90 true /home/sims0702/cdd_lab_2/cdd_lab_2.srcs/sources_1/imports/Downloads/uart_top.v
+91 true /home/sims0702/cdd_lab_2/cdd_lab_2.srcs/sources_1/imports/Downloads/uart_top.v
+111 true /home/sims0702/cdd_lab_2/cdd_lab_2.srcs/sources_1/imports/Downloads/uart_top.v
